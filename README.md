@@ -1,5 +1,5 @@
 # Detect-circle
-library:imutils,OpenCV
+Library:imutils,OpenCV
 任意のキーを入力すると、画面内の円の円形度を計算しながら
 緑色で標記する、そして検出終わったら、赤色で円形度が一番
 高い目標を標記するプログラムである。
